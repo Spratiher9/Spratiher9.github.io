@@ -1,0 +1,35 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+/component---node-modules-lekoarts-gatsby-theme-cara-src-templates-cara-tsx-37f79e98a512c4571c2f.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---cache-caches-gatsby-plugin-offline-app-shell-js-19245c8506e49b502b12.js
+  Cache-Control: public, max-age=31536000, immutable
+/webpack-runtime-acea44c7e09d6ae4fa53.js
+  Cache-Control: public, max-age=31536000, immutable
+/framework-06f646d936b841f99ebd.js
+  Cache-Control: public, max-age=31536000, immutable
+/app-8c53d5703691513e6030.js
+  Cache-Control: public, max-age=31536000, immutable
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/Spratiher9.github.io/
+  Link: </Spratiher9.github.io/webpack-runtime-acea44c7e09d6ae4fa53.js>; rel=preload; as=script
+  Link: </Spratiher9.github.io/framework-06f646d936b841f99ebd.js>; rel=preload; as=script
+  Link: </Spratiher9.github.io/app-8c53d5703691513e6030.js>; rel=preload; as=script
+  Link: </Spratiher9.github.io/component---node-modules-lekoarts-gatsby-theme-cara-src-templates-cara-tsx-37f79e98a512c4571c2f.js>; rel=preload; as=script
+  Link: </Spratiher9.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </Spratiher9.github.io/page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin
+/Spratiher9.github.io/offline-plugin-app-shell-fallback/
+  Link: </Spratiher9.github.io/webpack-runtime-acea44c7e09d6ae4fa53.js>; rel=preload; as=script
+  Link: </Spratiher9.github.io/framework-06f646d936b841f99ebd.js>; rel=preload; as=script
+  Link: </Spratiher9.github.io/app-8c53d5703691513e6030.js>; rel=preload; as=script
+  Link: </Spratiher9.github.io/component---cache-caches-gatsby-plugin-offline-app-shell-js-19245c8506e49b502b12.js>; rel=preload; as=script
+  Link: </Spratiher9.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </Spratiher9.github.io/page-data/offline-plugin-app-shell-fallback/page-data.json>; rel=preload; as=fetch; crossorigin
